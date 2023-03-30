@@ -174,7 +174,7 @@ text = """
 {: .language-groovy }
 
 
-To display the value of a variable to the screen in Groovy, we can use the `println` method passing the variable name are a parameter.
+To display the value of a variable to the screen in Groovy, we can use the `println` method passing the variable name as a parameter.
 
 ~~~
 x = 1
